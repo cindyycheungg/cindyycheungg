@@ -19,7 +19,6 @@ I'm Cindy! A fourth year Computer Science and Statistics double major at the Uni
 
 ### 💻 Beep-beep-bop-boping status:
 - Aspiring front end developer - working with React, React Native and Redux. Making thing look pretty and delivering quality user experience makes me happies💃
-- Currently learning Ruby and Rails🔧
 
 ### 📫 Come find me! 
 - [LinkedIn](https://www.linkedin.com/in/cindycheungg/)

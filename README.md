@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Cindy! A Computer Science and Statistics double major at the University of Waterloo. I'm currently a Software Engineer Intern at [Wealthsimple](https://www.wealthsimple.com/) and I'll be heading to [Meta](https://about.facebook.com/meta/) next. I'm always down for a ☕ and to chat about anything cool you've got going on - let's connect! 
+I'm Cindy! A Computer Science and Statistics double major at the University of Waterloo. I'm currently a Software Engineer Intern at [Meta](https://about.facebook.com/meta/) and I was previously at [Wealthsimple](https://www.wealthsimple.com/). I'm always down for a ☕ and to chat about anything cool you've got going on - let's connect! 
 
 ### 💻 Beep-beep-bop-boping status:
 - Aspiring front end developer - working with React, React Native and Redux. Making thing look pretty and delivering quality user experience makes me happies💃

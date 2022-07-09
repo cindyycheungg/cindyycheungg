@@ -24,8 +24,3 @@ I'm Cindy! A Computer Science and Statistics double major at the University of W
 - [LinkedIn](https://www.linkedin.com/in/cindycheungg/)
 - [Email](mailto:ccy2cheu@uwaterloo.ca)
 
-<!--
-[![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyycheungg)](https://github.com/cindyycheungg/github-readme-stats)
--->
-[![Visits Badge](https://badges.pufler.dev/visits/cindyycheungg/cindyycheungg)](https://badges.pufler.dev)
-
